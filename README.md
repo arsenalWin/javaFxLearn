@@ -1,6 +1,6 @@
 # Java桌面端开发学习   
-JDK ：java8
-IDE ：IntelliJ Idea
+JDK ：java8   
+IDE ：IntelliJ Idea   
 教程 ：https://code.makery.ch/zh-cn/library/javafx-tutorial/  
 
 ##### 简介
